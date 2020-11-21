@@ -2,4 +2,4 @@ first commit
 
 
 fffdd
-triple ccc
+triple cccnn
